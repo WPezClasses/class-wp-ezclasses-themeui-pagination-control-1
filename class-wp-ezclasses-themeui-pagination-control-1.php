@@ -1,4 +1,4 @@
-<?
+<?php
 /** 
  * Sorting (blog posts), paging, next / previous and such.
  *
